@@ -1,0 +1,11 @@
+D:\Programming\VoVRant\bin\Debug\VoVRant.exe.config
+D:\Programming\VoVRant\bin\Debug\VoVRant.exe
+D:\Programming\VoVRant\bin\Debug\VoVRant.pdb
+D:\Programming\VoVRant\obj\Debug\VoVRant.csproj.AssemblyReference.cache
+D:\Programming\VoVRant\obj\Debug\VoVRant.csproj.SuggestedBindingRedirects.cache
+D:\Programming\VoVRant\obj\Debug\VoVRant.Form1.resources
+D:\Programming\VoVRant\obj\Debug\VoVRant.Properties.Resources.resources
+D:\Programming\VoVRant\obj\Debug\VoVRant.csproj.GenerateResource.cache
+D:\Programming\VoVRant\obj\Debug\VoVRant.csproj.CoreCompileInputs.cache
+D:\Programming\VoVRant\obj\Debug\VoVRant.exe
+D:\Programming\VoVRant\obj\Debug\VoVRant.pdb
